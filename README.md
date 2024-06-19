@@ -1,6 +1,5 @@
 # Pentagon Chaos Game in C++
 This repository contains the implementation of the Pentagon Chaos Game in C++. 
-![Pentagon Chaos Game](https://example.com/pentagon_chaos_game_image.jpg)
 ## Description
 The Pentagon Chaos Game is a fascinating demonstration of how a simple iterative process can produce complex and beautiful patterns. This project is a C++ implementation of the game, generating a fractal pentagon.
 ## How to Use
