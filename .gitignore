@@ -1,0 +1,17 @@
+# Ignore build folder
+/build
+
+# Ignore compiled binaries
+*.exe
+*.out
+
+# Ignore object files
+*.o
+
+# Ignore generated files
+Makefile
+CMakeLists.txt.user
+
+# Ignore Visual Studio code files
+.vscode
+/.vscode
