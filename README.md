@@ -8,7 +8,7 @@ The Pentagon Chaos Game is a fascinating demonstration of how a simple iterative
 3. Run the executable.
 4. The program will generate and display the fractal pentagon.
 ## Requirements
-- A C++ compiler
+- C++ compiler
 ## Contributing
 Contributions are welcome! If you have a feature to propose or a bug to fix, please feel free to open an issue or submit a pull request.
 ## License
